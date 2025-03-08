@@ -18,6 +18,6 @@ I'm a passionate developer who loves transforming ideas into reality through cod
 ## 🤝 Connect with Me
 - 🌐 [GitHub](https://github.com/niteshsahu48)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nitesh-sahu-989381341/)
-- 🐦 [Twitter](https://twitter.com/your-handle)
+- 🐦 [Twitter](https://x.com/NiteshSahu8815)
 
 🚀 Let’s build something amazing together!
