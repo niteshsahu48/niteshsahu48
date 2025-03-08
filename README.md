@@ -16,8 +16,8 @@ I'm a passionate developer who loves transforming ideas into reality through cod
 > "Code, Create, Innovate – Repeat!"
 
 ## 🤝 Connect with Me
-- 🌐 [GitHub](https://github.com/your-username)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 [GitHub](https://github.com/niteshsahu48)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitesh-sahu-989381341/)
 - 🐦 [Twitter](https://twitter.com/your-handle)
 
 🚀 Let’s build something amazing together!
